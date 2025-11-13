@@ -8,7 +8,7 @@ Questa repository contiene il mio CV in formato PDF. Al suo interno troverai inf
 
 ## 📄FILE PDF
 
-(Curriculum Alessandro Imbriani 2025.pdf)
+(https://github.com/Rela45/Curriculum-Vitae---Alessandro-Imbriani/blob/5120cfe35144dd34bf1b83b48ab5a7cc61beded5/Curriculum%20Alessandro%20Imbriani%202025.pdf)
 
 ## 💻Competenze Tecniche
 
