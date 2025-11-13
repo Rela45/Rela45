@@ -1,16 +1,16 @@
-#💼 Curriculum Vitae — Alessandro Imbriani
+# 💼 Curriculum Vitae — Alessandro Imbriani
 
 Benvenuto nella repository contenente il mio **CV aggiornato**, che riflette le competenze acquisite fino ad oggi e il percorso professionale in evoluzione.
 
-##📝 Descrizione
+## 📝 Descrizione
 
 Questa repository contiene il mio CV in formato PDF. Al suo interno troverai informazioni aggiornate su **competenze tecniche**, **esperienze lavorative**, **formazione** e **progetti** significativi, con particolare focus sullo sviluppo moderno in C# e .NET.
 
-##📄 FILE PDF
+## 📄 FILE PDF
 
 (Il file PDF aggiornato del CV è incluso nella repository.)
 
-##💻 Competenze Tecniche
+## 💻 Competenze Tecniche
 
 ### Linguaggi di programmazione / scripting
 - Java – OOP  
@@ -24,7 +24,7 @@ Questa repository contiene il mio CV in formato PDF. Al suo interno troverai inf
 - Git e GitHub  
 - Windows
 
-#📞 Contatti
+# 📞 Contatti
 
 🔗 LinkedIn: https://www.linkedin.com/in/alessandro-imbriani-7809a528b/
 ---
