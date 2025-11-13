@@ -8,7 +8,7 @@ Questa repository contiene il mio CV in formato PDF. Al suo interno troverai inf
 
 ## 📄FILE PDF
 
-(Il file PDF aggiornato del CV è incluso nella repository.)
+(Curriculum Alessandro Imbriani 2025.pdf)
 
 ## 💻Competenze Tecniche
 
