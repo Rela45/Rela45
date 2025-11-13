@@ -1,1 +1,37 @@
-# Curriculum-Vitae---Alessandro-Imbriani
+💼 Curriculum Vitae — Alessandro Imbriani
+
+Benvenuto nella repository contenente il mio CV aggiornato, che riflette le competenze acquisite fino ad oggi e il percorso professionale in evoluzione.
+
+📝 Descrizione
+
+Questa repository contiene il mio CV in formato PDF. Al suo interno troverai informazioni aggiornate su competenze tecniche, esperienze lavorative, formazione e progetti significativi, con particolare focus sullo sviluppo moderno in C# e .NET.
+
+📄 FILE PDF
+
+(Il file PDF aggiornato del CV è incluso nella repository.)
+
+💻 Competenze Tecniche
+
+Linguaggi di programmazione/scripting
+
+Java – OOP
+
+HTML/CSS – basi di front-end development
+
+C# – OOP, design pattern e dependency injection
+
+SQL – query complesse e ottimizzazione
+
+JavaScript – basi
+
+Ambienti e strumenti
+
+Visual Studio Code
+
+Git e GitHub
+
+Windows
+
+📞 Contatti
+
+🔗 LinkedIn: https://www.linkedin.com/in/alessandro-imbriani-7809a528b/
