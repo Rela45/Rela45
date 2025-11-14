@@ -20,7 +20,8 @@ Questa repository contiene il mio CV in formato PDF. Al suo interno troverai inf
 - JavaScript – basi  
 
 ### Ambienti e strumenti
-- Visual Studio Code  
+- Visual Studio Code
+- Unity Editor
 - Git e GitHub  
 - Windows
 
